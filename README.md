@@ -1,6 +1,7 @@
-# MicroChat: ESP32 - MicroPython - Microdot
+# MicroChat: ESP32 - MicroPython - Microdot - WebSocket
 
-MicroChat is a project developed using MicroPython and Microdot to create a simple chat service. It offers a web-based chat interface that allows users to communicate in real-time.
+MicroChat is a project developed using MicroPython and Microdot to create a simple chat service 
+WebSocket based.
 
 - [MicroPython](https://micropython.org/)
 - [Microdot](https://microdot.readthedocs.io/en/latest/api.html)
